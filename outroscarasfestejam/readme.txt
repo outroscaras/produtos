@@ -1,3 +1,6 @@
+Público alvo:
+Pessoas de 15 a 60 anos moradores do Rio de Janeiro
+
 Descrição:
 Iniciamos nossa carreira tocando música cover na noite do Rio de Janeiro. 
 Em seguida começamos a fazer festas e eventos para familiares e amigos. Depois para amigos de amigos.
