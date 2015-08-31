@@ -12,7 +12,7 @@ Cinema mudo/Ska/Óculos/Meu erro (ADICIONAR "LOURINHA BOMBRIL")
 Radio Pirata/Uma Noite e meia/Radio Blá
 Família/Homem Primata
 Tempos Modernos/Um Certo Alguém/Toda Forma de Amor
-Família/Homem Primata/Polícia/Geração Coca-Cola/Será/Mulher de Fases/I Saw U Saying
+Família/Homem Primata/Polícia/Geração Coca-Cola/Será/Mulher de Fases/I Saw U Saying (UPDATE 31/08)
 
 EMENDA A TESTAR
 A Estrada/Sombra da maldade
@@ -21,9 +21,7 @@ ROCKS AVULSOS
 
 Do seu lado                                                                         
 Primeiros Erros
-Mulher de fases                                                                 
 Vem quente que eu estou fervendo                              
-Geração Coca Cola
 
 PLOC 80
 Menina veneno
