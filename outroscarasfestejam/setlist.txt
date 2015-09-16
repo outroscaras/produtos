@@ -1,5 +1,6 @@
 SETLIST
 
+
 EMENDAS (feitas até o ensaio de 16/08)
 
 Lagrimas de crocodilo/Menina veneno
@@ -8,7 +9,7 @@ Exagerado/Vamos fugir
 Whisky a gogô/Show de Rock`n Roll
 Ciumes/Independente Futebol Clube
 Fio maravilha/País tropical/Você/Gostava tanto de você
-Cinema mudo/Ska/Óculos/Meu erro (ADICIONAR "LOURINHA BOMBRIL")
+Lourinha Bombril/Óculos/Meu erro 
 Radio Pirata/Uma Noite e meia/Radio Blá
 Tempos Modernos/Um Certo Alguém/Toda Forma de Amor
 Família/Homem Primata/Polícia/Geração Coca-Cola/Será/Mulher de Fases/I Saw U Saying (UPDATE 31/08)
@@ -23,22 +24,11 @@ Primeiros Erros
 Vem quente que eu estou fervendo                              
 
 PLOC 80
-Menina veneno
 Amante profissional
 Pop Star
 Serão extra
 Dancing days 
 A fórmula do amor
-Ciumes
-Independente Futebol Clube
-
-REGGAE
-Você / Gostava tanto de você
-A novidade
-Natiruts Reggae Power
-Eu quero ser feliz também
-A estrada/ Sombra da maldade
-Zóio de Lula
 
 DANÇANTES
 Manuel
